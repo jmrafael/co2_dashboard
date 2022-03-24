@@ -1,4 +1,4 @@
-# co2_dashboard
+# CO2 Dashboard built on Python: Panel, pandas, numpy, hvplot
 
 Based on @thu-vu92 (https://github.com/thu-vu92/) repo
 
